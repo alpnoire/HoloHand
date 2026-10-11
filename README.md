@@ -1,5 +1,11 @@
-# HoloHand (gesture-agent-3d)
-## Dev / Creator = tubakhxn
+# HoloHand
+
+**Original creator:** tubakhxn  
+**Repository:** https://github.com/alpnoire/HoloHand
+
+A gesture-controlled 3D explorer built with JavaScript, MediaPipe Hand Landmarker, and Three.js.
+
+This repository contains a project originally credited to tubakhxn. Credit is retained to acknowledge the original creator.
 
 Control exploded 3D models with your bare hands. Your webcam is the background, a hand skeleton and a gold ring follow your hand,
 and each model is a glowing point cloud that pulls apart into labelled parts so you can see what is inside.
